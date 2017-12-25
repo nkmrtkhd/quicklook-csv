@@ -109,6 +109,7 @@
 			<dict>
 				<key>public.filename-extension</key>
 				<array>
+					<string>tsv</string>
 					<string>csv</string>
 				</array>
 				<key>public.mime-type</key>
